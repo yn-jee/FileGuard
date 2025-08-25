@@ -1,4 +1,5 @@
 directory: "D:\\Project\\KKB2508\\watchdog\\watch_directory"
 
-extensions:
-  - ".txt"
+extensions: [".txt"]
+
+backup_dir: "backup"  
